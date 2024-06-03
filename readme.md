@@ -1,6 +1,6 @@
-# Streamlit Random Choice helper
+# Streamlit Master of Ceremony (MC) helper
 
-It allows you to provide multiple choices and randomly select one by one. \
+It allows you to provide multiple MCs and randomly select one by one. \
 You can provide your choices in the choices section, you can add, delete and modify choices
 
 ## Saving your choices
