@@ -68,7 +68,7 @@ if st.query_params.get_all(QUERY_PARAM_NAME):
     get_next = st.button('Roll 🎰', use_container_width=True)
 
 if get_next:
-    st.header('_Next lucky MC :luck: :_')
+    st.header('_Next lucky MC :clover: :_')
     st.markdown(f"<h1 style='text-align: center;'>{get_random_choice()}</h1>", unsafe_allow_html=True)
 
     st.balloons()
