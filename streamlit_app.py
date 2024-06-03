@@ -2,7 +2,7 @@ from random import choice
 import streamlit as st
 
 QUERY_PARAM_NAME = 'choices'
-st.title('Random choice selector 🎲')
+st.title('Random Master of Ceremony (MC) selector :microphone: 🎲')
 get_next = False
 
 
